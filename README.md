@@ -1,2 +1,1 @@
-# pictureBed
-笔记图片存放
+<h2 align="center">Image_store</a></h2>
